@@ -1,0 +1,34 @@
+Debugger Test Cases
+
+#Debugger 1
+Stock Length: 30
+Requests: 13, 16, 24, 16, 11, 14
+Answer: 4
+Indices of the requests in each stock:
+Stock 1: [0, 1]
+Stock 2: [2]
+Stock 3: [3, 4]
+Stock 4: [5]
+
+
+#Debugger 2
+Stock Length: 100
+Requests: 48, 30, 19, 36, 36, 27, 42, 42, 36, 24, 30
+Answer: 4
+Indices of the requests in each stock:
+Stock 1: [1, 5, 10]
+Stock 2: [0, 6]
+Stock 3: [2, 4, 7]
+Stock 4: [3, 8, 9]
+
+
+#Debugger 3
+Stock Length: 100
+Requests: 16, 34, 49, 12, 43, 44, 34, 23, 33, 40, 55, 51
+Answer: 5
+Indices of the requests in each stock:
+Stock 1: [0, 1, 2]
+Stock 2: [3, 4, 5]
+Stock 3: [6, 7, 8]
+Stock 4: [9, 10]
+Stock 5: [11]
